@@ -46,7 +46,7 @@ if you would like to contribute
 <br>**Hamza Yayoud** - [GitHub](https://github.com/YajoudHamza) [FR]
 <br>**Mboma Morganne** - [GitHub](https://github.com/mbomamorgane) [FR]
 <br>**Samuel Reyniers** - [GitHub](https://github.com/ReyniersSamuel) [FR]
-<br>**Mouad** - [GitHub](https://github.com/Mouad-becode) [FR]
+<br>**Mouad Ahsina** - [GitHub](https://github.com/Mouad-becode) [FR]
 
 ## Acknowledgment
 
